@@ -723,7 +723,7 @@ class Line(object):
 
         self.start = Point(self.startx, self.starty)
         self.end = Point(self.endx, self.endy)
-        
+
 ########################################################################
 # The TEST functions for the  Line  class begin here.
 #
